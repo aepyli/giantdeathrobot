@@ -1,1 +1,1 @@
-# GDR development version
+# giantdeathrobot
